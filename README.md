@@ -18,5 +18,7 @@ Hey twin — everything we've talked about, built, and agreed on is saved right 
 | **`05_SKIBIDI_STRIKE.md`** | Full Skibidi Strike history, characters, Titans, story ranking, audio/credits rules, and queued work |
 | **`06_WEBSITE_TEAM_AND_WORKFLOW.md`** | TTVM Studios website, Owner Chats, UTC Studios work split, and the 7 Bolter AI dev agents |
 | **`07_OPEN_ITEMS_AND_NEXT_STEPS.md`** | Day-1 checklist of everything waiting right now (as of Nov 23, 2026) |
+| **`08_WEB_BUILD_AND_DEPLOY_GUIDE.md`** | Exact WebGL cloud build, site deploy & Bolter <-> UTC direct bridge guide |
+| **`deploy_web_build.py`** | Standalone Python script to deploy WebGL builds atomically to `skibidi-strike-site` |
 
 *For Amos / TTVM Studios — safe to share with UTC or your AI team. Zero age info, passwords, API tokens, private codes, phone numbers, or emails are stored in these files.*

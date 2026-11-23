@@ -36,3 +36,9 @@ This checklist lets any new AI assistant pick up **exact where Ttvm left off** o
 - **Monthly Skibidi Strike Web Build Check:** Ensure live `/play/` matches latest `main`.
 - **Website Group Chat Watch:** Keep an eye on `idk1234-c/skibidi-strike/chat/group.json` for UTC & Amos updates.
 - **Ongoing Hunts:** Free CC-BY / CC0 Sketchfab models (post pick sheets in site Group chat) + copyright-free music.
+
+## 5. UTC Catch-Up Notes (Nov 20–22, 2026)
+- **Blockworld `play/` updated:** UTC promoted tap/scroll-fix **v0.5.178-alpha** (`VER bf9de7d5dd`) to live `play/`. Rain Glass (`v0.5.179-alpha`) remains on `play-test/`. Next bug from Patch: oversized block-target wireframe box.
+- **Website:** Suggestions form is already on-site (`64f775f`) and chats-page ping is live (`8e5f3b9`, `chat/index.json` ping flag).
+- **Skibidi Strike:** UTC pushed a texture pass (`7bd2ae1`), but two cloud build runs failed to publish before logs were checked — read Actions logs before triggering builds, and check Ttvm's Nov 23 visual overhaul!
+- **Scout research queue (from UTC in `chat/group.json` `utc25`, `utc27`, `utc28`, `utc29`):** Space Engineers survival series research + Blockworld mod rundowns (*Create: Sky*, *Copycats+*, *Touch'n Motion*, *Create: Extra Copycats*, *Create: Interiors*).
